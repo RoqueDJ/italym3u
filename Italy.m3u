@@ -1,35 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Rai 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",Rai 1
 http://team-tv.co:81/rai1/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",Rai 2
 http://team-tv.co:81/rai2/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",Rai 3
 http://team-tv.co:81/rai3/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEY21rg.png",Rai 4
 http://team-tv.co:81/rai4/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png",Rai 5
 http://team-tv.co:81/rai5/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FjxXU9.png",Rai Movie
 http://team-tv.co:81/raimovie/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40g5Urz.png",Rai Premium
 http://95.141.36.9:8080/stream/170/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai Yoyo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gCxiDy.png",Rai Yoyo
 http://95.141.36.9:8080/stream/156/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2u57y3.png",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai Storia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",Rai Storia
 http://team-tv.co:81/raistoria/index.m3u8
-#EXTINF:-1 tvg-logo="",Rai Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
-#EXTINF:-1 tvg-logo="",Italiana (Rai Scuola)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626",Italiana (Rai Scuola)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai Italia (North America)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia (North America)
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai Italia (South America)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia (South America)
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai Italia (Asia/Australia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia (Asia/Australia)
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai Italia (Europe/Africa)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia (Europe/Africa)
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
-#EXTINF:-1 tvg-logo="",Rai World Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDuKkh3.png",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
